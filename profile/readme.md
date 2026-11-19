@@ -4,7 +4,7 @@
 
 - [JDJG's Projects](https://github.com/JDsProjects/) (Sister Thing)
 
-- Owned by:
+Owned by:
 
 - [JDJG-Holding-Team](https://github.com/JDJG-Holding-Team) (Owners/Managers)
 
