@@ -14,5 +14,5 @@ These are projects that don't get worked on much but are still available for col
 - [JDJG's Extra Projects](https://github.com/JDJG-s-Extra-Projects)
 - [JDJG's Shengians](https://github.com/JDJG-s-Shengians)
 
-The Azul Athena Music Group is a group specifically to design and own music under 
+The Azul Athena Music Group is a group specifically to design and own music under [JDJG-Holding-Team](https://github.com/JDJG-Holding-Team)
 
